@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lab_JaxWsClient.iml" filepath="$PROJECT_DIR$/Lab_JaxWsClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Lab_JaxWsServer/Lab_JaxWsServer.iml" filepath="$PROJECT_DIR$/../Lab_JaxWsServer/Lab_JaxWsServer.iml" />
+    </modules>
+  </component>
+</project>
